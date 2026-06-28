@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2023/020-2023-12-11-2023-12-17-audit-education-graph-theory-visual-assets|020_2023년 12월 3주차; 나는 그래프 이론을 배우고 감사교육 이미지를 반복 생성했다]]
 - [[posts/2023/019-2023-12-04-2023-12-10-korean-emotion-analysis-accident-insurance|019_2023년 12월 2주차; 나는 감정분석 노트북을 재실행 가능한 업무도구로 고치고 사고 경위를 문서화했다]]
 - [[posts/2023/018-2023-11-27-2023-12-03-education-roi-semantic-stm|018_2023년 11월 5주차; 나는 교육 ROI와 시맨틱 텍스트 분석을 업무 지표로 연결하려 했다]]
 - [[posts/2023/017-2023-11-20-2023-11-26-korean-sentiment-analysis-transformer|017_2023년 11월 4주차; 나는 한글 감정분석 코드를 교육설문 자동분석 도구로 다듬었다]]
