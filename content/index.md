@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/024-2024-01-08-2024-01-14-steel-dx-leadership-excel-analytics|024_2024년 1월 2주차; 나는 철강 DX 교육과 리더십 교육체계를 데이터와 자동화 관점에서 설계했다]]
 - [[posts/2024/023-2024-01-01-2024-01-07-talent-clustering-homeschooling-dx-automation|023_2024년 1월 1주차; 나는 인재상 데이터를 군집화하고 영어 홈스쿨링과 DX 교육을 설계했다]]
 - [[posts/2023/022-2023-12-25-2023-12-31-kind-conversation-trust-repair-family-communication|022_2023년 12월 5주차; 나는 가족의 신뢰를 회복하기 위해 다정한 말하기를 배우려 했다]]
 - [[posts/2023/021-2023-12-18-2023-12-24-auditor-mindset-critical-thinking-interview-models|021_2023년 12월 4주차; 나는 감사전문가 마인드셋 교육과정을 이론과 면담기법으로 설계했다]]
