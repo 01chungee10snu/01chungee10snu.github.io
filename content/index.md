@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: 충이의 생각조각 블로그
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+사람은 바뀔 수 있다고 믿는 HRDer입니다.  
+하지만 고쳐쓸 수는 없다고 생각합니다.
+
+사랑하는 아내와 두 딸과 함께 행복한 나날들을 그려가고 있습니다.
+
+교육학 박사과정을 밟고 있습니다.  
+배움의 즐거움과 고통을 오가며 성장하고 있습니다.
