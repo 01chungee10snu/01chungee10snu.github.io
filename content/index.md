@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2023/014-2023-10-30-2023-11-05-stm-education-improvement|014_2023년 11월 1주차; 나는 STM 키워드를 교육훈련 개선 인사이트로 번역했다]]
 - [[posts/2023/013-2023-10-23-2023-10-29-homeschooling-english-power-automate|013_2023년 10월 4주차; 나는 딸들의 영어 홈스쿨링과 Power Automate 리마인드를 설계했다]]
 - [[posts/2023/012-2023-10-16-2023-10-22-blind-review-preprocessing-qliksense-child-iq|012_2023년 10월 3주차; 나는 블라인드 리뷰 전처리 오류와 QlikSense 교육 홍보를 붙잡았다]]
 - [[posts/2023/011-2023-10-09-2023-10-15-career-guide-ai-textmining-rjd|011_2023년 10월 2주차; 나는 경력개발가이드와 AI 텍스트분석 강의를 동시에 만들었다]]
