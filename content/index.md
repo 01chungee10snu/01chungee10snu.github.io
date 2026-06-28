@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2023/016-2023-11-13-2023-11-19-fact-truth-principle-profit-structure|016_2023년 11월 3주차; 나는 사실과 진실을 구분하고 사과 장사의 손익 구조를 다시 보았다]]
 - [[posts/2023/015-2023-11-06-2023-11-12-statistics-text-analysis-kote|015_2023년 11월 2주차; 나는 통계분석과 KOTE 감정분석 코드를 실무 도구로 바꾸려 했다]]
 - [[posts/2023/014-2023-10-30-2023-11-05-stm-education-improvement|014_2023년 11월 1주차; 나는 STM 키워드를 교육훈련 개선 인사이트로 번역했다]]
 - [[posts/2023/013-2023-10-23-2023-10-29-homeschooling-english-power-automate|013_2023년 10월 4주차; 나는 딸들의 영어 홈스쿨링과 Power Automate 리마인드를 설계했다]]
