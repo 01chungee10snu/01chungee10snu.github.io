@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/025-2024-01-15-2024-01-21-ml-leadership-pipeline-teams-automation|025_2024년 1월 3주차; 나는 기계학습 교육자료와 리더십 파이프라인, Teams 자동화를 함께 설계했다]]
 - [[posts/2024/024-2024-01-08-2024-01-14-steel-dx-leadership-excel-analytics|024_2024년 1월 2주차; 나는 철강 DX 교육과 리더십 교육체계를 데이터와 자동화 관점에서 설계했다]]
 - [[posts/2024/023-2024-01-01-2024-01-07-talent-clustering-homeschooling-dx-automation|023_2024년 1월 1주차; 나는 인재상 데이터를 군집화하고 영어 홈스쿨링과 DX 교육을 설계했다]]
 - [[posts/2023/022-2023-12-25-2023-12-31-kind-conversation-trust-repair-family-communication|022_2023년 12월 5주차; 나는 가족의 신뢰를 회복하기 위해 다정한 말하기를 배우려 했다]]
