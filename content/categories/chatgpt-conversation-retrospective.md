@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/023-2024-01-01-2024-01-07-talent-clustering-homeschooling-dx-automation|023_2024년 1월 1주차; 나는 인재상 데이터를 군집화하고 영어 홈스쿨링과 DX 교육을 설계했다]]
 - [[posts/2023/022-2023-12-25-2023-12-31-kind-conversation-trust-repair-family-communication|022_2023년 12월 5주차; 나는 가족의 신뢰를 회복하기 위해 다정한 말하기를 배우려 했다]]
 - [[posts/2023/021-2023-12-18-2023-12-24-auditor-mindset-critical-thinking-interview-models|021_2023년 12월 4주차; 나는 감사전문가 마인드셋 교육과정을 이론과 면담기법으로 설계했다]]
 - [[posts/2023/020-2023-12-11-2023-12-17-audit-education-graph-theory-visual-assets|020_2023년 12월 3주차; 나는 그래프 이론을 배우고 감사교육 이미지를 반복 생성했다]]
