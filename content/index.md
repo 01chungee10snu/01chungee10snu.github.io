@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/060-2024-09-16-2024-09-22-pytorch-sap-automation-scholarai-family-income|060_2024년 9월 3주차; 나는 PyTorch 환경과 SAP 자동화, ScholarAI와 가족 소득 질문을 함께 다뤘다]]
 - [[posts/2024/059-2024-09-09-2024-09-15-autogpt-wsl-stm-robot-family-number|059_2024년 9월 2주차; 나는 AutoGPT 실행환경과 WSL 오류, STM·로봇 담론과 생활 판단을 함께 다뤘다]]
 - [[posts/2024/058-2024-09-02-2024-09-08-hrd-workshop-stm-process-environment-family-learning|058_2024년 9월 1주차; 나는 HRD 워크숍 이미지와 STM·PROCESS 분석, 실행환경 정리를 함께 다뤘다]]
 - [[posts/2024/057-2024-08-26-2024-09-01-topic-modeling-python-visual-assets-family-decision|057_2024년 8월 5주차; 나는 토픽모델링 오류와 Python 환경, 리더십 시각자료와 가족 판단을 함께 다뤘다]]
