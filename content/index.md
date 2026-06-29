@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/083-2025-02-24-2025-03-02-sap-tcode-excel-week-gpt45-followership|083_2025년 2월 4주차; 나는 SAP T-code 확장과 Excel 주차 계산, GPT-4.5와 팔로워십 연구를 함께 다듬었다]]
 - [[posts/2025/082-2025-02-17-2025-02-23-sap-automation-ai-security-leadership-heating-excel-travel|082_2025년 2월 3주차; 나는 SAP 자동화와 AI 보안, 리더십 보고문장과 난방·엑셀·여행 비교를 함께 다듬었다]]
 - [[posts/2025/081-2025-02-10-2025-02-16-food-loss-qlik-leadership-gpt-genai-evidence|081_2025년 2월 2주차; 나는 식수 예측분석과 Qlik 대시보드, 리더십 GPT와 생성형 AI 근거를 함께 다듬었다]]
 - [[posts/2025/080-2025-02-03-2025-02-09-man-power-education-data-ai-learning-tax|080_2025년 2월 1주차; 나는 MAN Power 분석과 교육 데이터, AI 학습소모임과 생활 세무를 함께 다듬었다]]
