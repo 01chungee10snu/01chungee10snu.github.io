@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/096-2025-05-26-2025-06-01-carbon-ppt-kotestmkiwi-workshop-git-family-life|096_2025년 6월 1주차; 나는 탄소중립 교육과 PPT 시각화, KOTESTMkiwi 설계와 워크숍 운영을 함께 다듬었다]]
 - [[posts/2025/095-2025-05-19-2025-05-25-macau-english-stm-workinnovation-firo-mbti-family-learning|095_2025년 5월 4주차; 나는 마카오 영어학습과 STM 파이프라인, Work Innovation 평가와 FIRO-MBTI 해석을 함께 다듬었다]]
 - [[posts/2025/094-2025-05-12-2025-05-18-carbon-steel-cursor-topicmodeling-mbti-self-reflection|094_2025년 5월 3주차; 나는 탄소중립 전략과 Cursor 규칙, 토픽모델링과 MBTI 문항구조를 함께 다듬었다]]
 - [[posts/2025/093-2025-05-05-2025-05-11-carbon-mbti-firo-steel-family-finance-automation|093_2025년 5월 2주차; 나는 탄소중립 교육과 MBTI-FIRO 진단, 철강 전략과 가족 재무 판단을 함께 다듬었다]]
