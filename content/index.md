@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/076-2025-01-06-2025-01-12-genai-compliance-sap-automation-accident-docs|076_2025년 1월 2주차; 나는 생성형 AI 준법지원과 SAP 자동화, 문서 정리와 생활 판단을 함께 다듬었다]]
 - [[posts/2025/075-2024-12-30-2025-01-05-sap-genai-education-effectiveness-life-automation|075_2025년 1월 1주차; 나는 SAP 자동화와 생성형 AI 제약, 교육효과 측정과 생활 자동화를 함께 정리했다]]
 - [[posts/2024/074-2024-12-23-2024-12-29-opendart-genai-task-classification-learning-community|074_2024년 12월 4주차; 나는 OPENDART 스크립트와 생성형 AI 과제분류, 학습소모임 설계를 함께 다듬었다]]
 - [[posts/2024/073-2024-12-16-2024-12-22-genai-sora-hr-productivity-math-coaching-data-classification|073_2024년 12월 3주차; 나는 SORA 영상 프롬프트와 HR 생산성 혁신, 수학 코칭과 데이터 분류를 함께 다듬었다]]
