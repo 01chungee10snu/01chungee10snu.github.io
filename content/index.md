@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/087-2025-03-24-2025-03-30-tls-python-env-gpts-phd-swarm-prdt|087_2025년 3월 4주차; 나는 TLS 오류와 Python 환경, GPTs 분석과 박사과정 문서, Swarm 자동화를 함께 다듬었다]]
 - [[posts/2025/086-2025-03-17-2025-03-23-local-llm-kote-sentiment-sap-phd-docs|086_2025년 3월 3주차; 나는 로컬 LLM과 KOTE 감정분석, SAP GUI 자동화와 박사과정 진학문서를 함께 다듬었다]]
 - [[posts/2025/085-2025-03-10-2025-03-16-kflp-genai-ax-openmanus-sap-automation|085_2025년 3월 2주차; 나는 KFLP 리더십 코치와 생성형 AI AX 전략, OpenManus와 SAP 자동화를 함께 다듬었다]]
 - [[posts/2025/084-2025-03-03-2025-03-09-sap-gpts-policy-excel-legal-docs|084_2025년 3월 1주차; 나는 SAP 자동화와 GPTs 운영원칙, Excel 계산과 생활문서를 함께 다듬었다]]
