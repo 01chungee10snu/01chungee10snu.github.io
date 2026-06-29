@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/095-2025-05-19-2025-05-25-macau-english-stm-workinnovation-firo-mbti-family-learning|095_2025년 5월 4주차; 나는 마카오 영어학습과 STM 파이프라인, Work Innovation 평가와 FIRO-MBTI 해석을 함께 다듬었다]]
 - [[posts/2025/094-2025-05-12-2025-05-18-carbon-steel-cursor-topicmodeling-mbti-self-reflection|094_2025년 5월 3주차; 나는 탄소중립 전략과 Cursor 규칙, 토픽모델링과 MBTI 문항구조를 함께 다듬었다]]
 - [[posts/2025/093-2025-05-05-2025-05-11-carbon-mbti-firo-steel-family-finance-automation|093_2025년 5월 2주차; 나는 탄소중립 교육과 MBTI-FIRO 진단, 철강 전략과 가족 재무 판단을 함께 다듬었다]]
 - [[posts/2025/092-2025-04-28-2025-05-04-phd-ai-hrd-family-python-self-reflection|092_2025년 5월 1주차; 나는 박사과정 연구계획과 AI 인력개발, 가족 발달 질문과 실행환경 정리를 함께 다듬었다]]
