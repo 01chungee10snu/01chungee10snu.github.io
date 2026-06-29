@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/092-2025-04-28-2025-05-04-phd-ai-hrd-family-python-self-reflection|092_2025년 5월 1주차; 나는 박사과정 연구계획과 AI 인력개발, 가족 발달 질문과 실행환경 정리를 함께 다듬었다]]
 - [[posts/2025/091-2025-04-21-2025-04-27-prompt-carbon-windows-family-steel|091_2025년 4월 4주차; 나는 프롬프트 강의와 탄소중립 전략, Windows 이전과 가족 발달 질문을 함께 다듬었다]]
 - [[posts/2025/090-2025-04-14-2025-04-20-irt-manpower-trading-family-automation|090_2025년 4월 3주차; 나는 IRT 분석과 Manpower 발표, 자동매매 기획과 가족 발달 질문을 함께 다듬었다]]
 - [[posts/2025/089-2025-04-07-2025-04-13-ai-readiness-embedding-leadership-sap-gpts-book-curator|089_2025년 4월 2주차; 나는 AI 활용 준비도와 임베딩 리더십 분석, SAP 자동화와 GPTs 지식설계를 함께 다듬었다]]
