@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/061-2024-09-23-2024-09-29-stm-preprocessing-action-plan-text-embedding-education|061_2024년 9월 4주차; 나는 STM 전처리와 Action Plan 분석, 텍스트 임베딩과 교육환경 질문을 함께 다뤘다]]
 - [[posts/2024/060-2024-09-16-2024-09-22-pytorch-sap-automation-scholarai-family-income|060_2024년 9월 3주차; 나는 PyTorch 환경과 SAP 자동화, ScholarAI와 가족 소득 질문을 함께 다뤘다]]
 - [[posts/2024/059-2024-09-09-2024-09-15-autogpt-wsl-stm-robot-family-number|059_2024년 9월 2주차; 나는 AutoGPT 실행환경과 WSL 오류, STM·로봇 담론과 생활 판단을 함께 다뤘다]]
 - [[posts/2024/058-2024-09-02-2024-09-08-hrd-workshop-stm-process-environment-family-learning|058_2024년 9월 1주차; 나는 HRD 워크숍 이미지와 STM·PROCESS 분석, 실행환경 정리를 함께 다뤘다]]
