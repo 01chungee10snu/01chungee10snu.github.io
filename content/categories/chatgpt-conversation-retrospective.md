@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/028-2024-02-05-2024-02-11-ai-hr-process-tensorflow-leadership-principles|028_2024년 2월 1주차; 나는 AI-HR 실행 프로세스와 TensorFlow 생태계, 리더십 원칙성을 탐색했다]]
 - [[posts/2024/027-2024-01-29-2024-02-04-hr-ml-salary-simulation-steelie-awards|027_2024년 1월 5주차; 나는 HR 머신러닝과 급여 시뮬레이션, 교육훈련 벤치마킹을 연결했다]]
 - [[posts/2024/026-2024-01-22-2024-01-28-prompt-engineering-hr-genai-local-llm-automation|026_2024년 1월 4주차; 나는 프롬프트 엔지니어링과 HR 생성형 AI 자동화를 실험했다]]
 - [[posts/2024/025-2024-01-15-2024-01-21-ml-leadership-pipeline-teams-automation|025_2024년 1월 3주차; 나는 기계학습 교육자료와 리더십 파이프라인, Teams 자동화를 함께 설계했다]]
