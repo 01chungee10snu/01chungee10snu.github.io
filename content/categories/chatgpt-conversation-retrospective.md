@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/051-2024-07-15-2024-07-21-language-automation-orgchart-dashboard-knowledge|051_2024년 7월 3주차; 나는 어학교육 자동화와 조직도 시각화, 지식 질문을 엮었다]]
 - [[posts/2024/050-2024-07-08-2024-07-14-language-education-file-selection-emotion|050_2024년 7월 2주차; 나는 어학교육 선택과 파일 처리, 감정 이해를 함께 탐색했다]]
 - [[posts/2024/049-2024-07-01-2024-07-07-python-sap-automation-excel-email-metaphor|049_2024년 7월 1주차; 나는 Python SAP 자동화와 Excel·메일·비유 탐색을 집중적으로 다뤘다]]
 - [[posts/2024/048-2024-06-24-2024-06-30-course-topic-analysis-llm-gpu-leadership-feedback|048_2024년 6월 4주차; 나는 교육과정 토픽 분석과 LLM·GPU, 리더십 피드백을 연결했다]]
