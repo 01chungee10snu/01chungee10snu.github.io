@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/072-2024-12-09-2024-12-15-genai-survey-dx-academy-leadership-ppt-automation|072_2024년 12월 2주차; 나는 생성형 AI 설문과 DX Academy, 리더십 개발과 PPT 자동화를 함께 다듬었다]]
 - [[posts/2024/071-2024-12-02-2024-12-08-genai-curriculum-qliksense-rpa-office-troubleshooting|071_2024년 12월 1주차; 나는 생성형 AI 커리큘럼과 QlikSense 대시보드, RPA와 Office 오류를 함께 다듬었다]]
 - [[posts/2024/070-2024-11-25-2024-12-01-sap-automation-cfa-outlook-ai-ethics-family-civil-complaint|070_2024년 11월 4주차; 나는 SAP 자동화와 CFA 분석, Outlook 백업과 AI 윤리, 가족 민원을 함께 다듬었다]]
 - [[posts/2024/069-2024-11-18-2024-11-24-genai-workflow-leadership-review-docker-self-reflection|069_2024년 11월 3주차; 나는 생성형 AI 업무활용과 리더십 문장, Docker 환경과 자기성찰을 함께 다듬었다]]
