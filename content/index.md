@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/115-2025-10-06-2025-10-12-ai-hrd-news-reranker-sem-art-apps-family-learning|115_2025년 10월 2주차; 나는 AI-HRD 뉴스 감시와 Reranker·SEM 연구, 앱 개발과 가족 학습을 함께 다듬었다]]
 - [[posts/2025/114-2025-09-29-2025-10-05-textsem-mcp-vocational-education-sem-embedding|114_2025년 10월 1주차; 나는 TextSEM과 MCP, 2026년 업무방향과 직업교육·구조방정식 학습을 함께 다듬었다]]
 - [[posts/2025/113-2025-09-22-2025-09-28-sem-family-planning-learning-platform-spec-kit-health|113_2025년 9월 4주차; 나는 구조방정식 학습과 가족계획 발제, AI 학습플랫폼과 연구 자동화 개발계획을 함께 다듬었다]]
 - [[posts/2025/112-2025-09-15-2025-09-21-ai-productivity-qlik-jamovi-hrd-evaluation-mcp-health|112_2025년 9월 3주차; 나는 AI 업무생산성과 Qlik·Jamovi 분석, HRD 평가모형과 MCP 실행환경을 함께 다듬었다]]
