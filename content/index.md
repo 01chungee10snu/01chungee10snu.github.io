@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/074-2024-12-23-2024-12-29-opendart-genai-task-classification-learning-community|074_2024년 12월 4주차; 나는 OPENDART 스크립트와 생성형 AI 과제분류, 학습소모임 설계를 함께 다듬었다]]
 - [[posts/2024/073-2024-12-16-2024-12-22-genai-sora-hr-productivity-math-coaching-data-classification|073_2024년 12월 3주차; 나는 SORA 영상 프롬프트와 HR 생산성 혁신, 수학 코칭과 데이터 분류를 함께 다듬었다]]
 - [[posts/2024/072-2024-12-09-2024-12-15-genai-survey-dx-academy-leadership-ppt-automation|072_2024년 12월 2주차; 나는 생성형 AI 설문과 DX Academy, 리더십 개발과 PPT 자동화를 함께 다듬었다]]
 - [[posts/2024/071-2024-12-02-2024-12-08-genai-curriculum-qliksense-rpa-office-troubleshooting|071_2024년 12월 1주차; 나는 생성형 AI 커리큘럼과 QlikSense 대시보드, RPA와 Office 오류를 함께 다듬었다]]
