@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/068-2024-11-11-2024-11-17-genai-adoption-stm-education-effectiveness-culture-calculus|068_2024년 11월 2주차; 나는 생성형 AI 도입 근거와 STM 오류, 교육효과성 분석과 조직문화 방법론을 함께 다듬었다]]
 - [[posts/2024/067-2024-11-04-2024-11-10-outlier-manpower-ai-curation-foresight|067_2024년 11월 1주차; 나는 이상치 제거와 맨파워 분류, 개인화 학습 큐레이션과 미래 포럼을 연결했다]]
 - [[posts/2024/066-2024-10-28-2024-11-03-sem-semplot-hrd-feedback-statistics|066_2024년 10월 5주차; 나는 SEM 적합도와 semPlot 시각화, 평가면담과 통계 기초를 함께 다듬었다]]
 - [[posts/2024/065-2024-10-21-2024-10-27-sem-ticket-automation-powerpoint-statistics|065_2024년 10월 4주차; 나는 구조방정식과 티켓 자동화, PowerPoint 추출과 통계 검증을 함께 붙잡았다]]
