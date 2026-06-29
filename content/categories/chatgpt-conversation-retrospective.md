@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/055-2024-08-12-2024-08-18-text-embedding-hrd-feedback-family-safety|055_2024년 8월 3주차; 나는 텍스트 임베딩과 HRD 피드백, 가족 안전 질문을 함께 다뤘다]]
 - [[posts/2024/054-2024-08-05-2024-08-11-stm-sentiment-analysis-leadership-ai-family-learning|054_2024년 8월 2주차; 나는 STM 지표와 감정분석 자동화, 리더십 AI 활용을 다듬었다]]
 - [[posts/2024/053-2024-07-29-2024-08-04-topic-modeling-wsl-text-similarity-chart|053_2024년 7월 5주차; 나는 주제모델링 자동화와 WSL 환경, 텍스트 유사도·차트를 함께 다듬었다]]
 - [[posts/2024/052-2024-07-22-2024-07-28-qliksense-leadership-family-design|052_2024년 7월 4주차; 나는 QlikSense 대시보드와 리더십 문헌, 가족 돌봄을 함께 살폈다]]
