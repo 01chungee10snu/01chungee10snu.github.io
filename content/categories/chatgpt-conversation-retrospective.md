@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/093-2025-05-05-2025-05-11-carbon-mbti-firo-steel-family-finance-automation|093_2025년 5월 2주차; 나는 탄소중립 교육과 MBTI-FIRO 진단, 철강 전략과 가족 재무 판단을 함께 다듬었다]]
 - [[posts/2025/092-2025-04-28-2025-05-04-phd-ai-hrd-family-python-self-reflection|092_2025년 5월 1주차; 나는 박사과정 연구계획과 AI 인력개발, 가족 발달 질문과 실행환경 정리를 함께 다듬었다]]
 - [[posts/2025/091-2025-04-21-2025-04-27-prompt-carbon-windows-family-steel|091_2025년 4월 4주차; 나는 프롬프트 강의와 탄소중립 전략, Windows 이전과 가족 발달 질문을 함께 다듬었다]]
 - [[posts/2025/090-2025-04-14-2025-04-20-irt-manpower-trading-family-automation|090_2025년 4월 3주차; 나는 IRT 분석과 Manpower 발표, 자동매매 기획과 가족 발달 질문을 함께 다듬었다]]
