@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/097-2025-06-02-2025-06-08-ai-workshop-ppt-data-analysis-family-travel|097_2025년 6월 2주차; 나는 생성형 AI 워크숍과 PPT 시각화, 데이터분석 전처리와 가족 여행 준비를 함께 다듬었다]]
 - [[posts/2025/096-2025-05-26-2025-06-01-carbon-ppt-kotestmkiwi-workshop-git-family-life|096_2025년 6월 1주차; 나는 탄소중립 교육과 PPT 시각화, KOTESTMkiwi 설계와 워크숍 운영을 함께 다듬었다]]
 - [[posts/2025/095-2025-05-19-2025-05-25-macau-english-stm-workinnovation-firo-mbti-family-learning|095_2025년 5월 4주차; 나는 마카오 영어학습과 STM 파이프라인, Work Innovation 평가와 FIRO-MBTI 해석을 함께 다듬었다]]
 - [[posts/2025/094-2025-05-12-2025-05-18-carbon-steel-cursor-topicmodeling-mbti-self-reflection|094_2025년 5월 3주차; 나는 탄소중립 전략과 Cursor 규칙, 토픽모델링과 MBTI 문항구조를 함께 다듬었다]]
