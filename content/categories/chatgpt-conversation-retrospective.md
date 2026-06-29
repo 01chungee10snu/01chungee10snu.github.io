@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/079-2025-01-27-2025-02-02-deepseek-korean-sentiment-safari-shortcuts-family-learning|079_2025년 1월 5주차; 나는 DeepSeek 충격과 한국어 감정분석, iOS 단축어와 가족 학습을 함께 탐색했다]]
 - [[posts/2025/078-2025-01-20-2025-01-26-ai-learning-community-leadership-operator-family-learning|078_2025년 1월 4주차; 나는 생성형 AI 학습소모임과 신임승진자교육, Operator와 가족 학습을 함께 다듬었다]]
 - [[posts/2025/077-2025-01-13-2025-01-19-hrd-data-conversion-family-care-sap-popups|077_2025년 1월 3주차; 나는 HRD 데이터 변환과 리더십 교육문구, 가족 돌봄과 SAP 팝업을 함께 다듬었다]]
 - [[posts/2025/076-2025-01-06-2025-01-12-genai-compliance-sap-automation-accident-docs|076_2025년 1월 2주차; 나는 생성형 AI 준법지원과 SAP 자동화, 문서 정리와 생활 판단을 함께 다듬었다]]
