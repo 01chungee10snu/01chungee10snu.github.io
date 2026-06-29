@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/101-2025-06-30-2025-07-06-rapids-wsl-hr-data-audio-family-learning|101_2025년 7월 1주차; 나는 RAPIDS 실행환경과 HR 통합데이터 전략, 오디오 장비와 가족 자연학습을 함께 다듬었다]]
 - [[posts/2025/100-2025-06-23-2025-06-29-assessment-dx-wsl-markdown-travel-review|100_2025년 6월 5주차; 나는 역량진단 해석과 DX 교육, WSL 환경과 마크다운 기록법을 함께 다듬었다]]
 - [[posts/2025/099-2025-06-16-2025-06-22-predictive-automation-ppt-selfcare-github-family|099_2025년 6월 4주차; 나는 예측분석과 업무자동화, PPT 설계와 자기돌봄 질문을 함께 다듬었다]]
 - [[posts/2025/098-2025-06-09-2025-06-15-office-productivity-ai-job-research-onedrive-family-math|098_2025년 6월 3주차; 나는 사무생산성 혁신과 AI 직업대체 연구, OneDrive 백업과 가족 수학 설명을 함께 다듬었다]]
