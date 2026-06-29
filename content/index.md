@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/052-2024-07-22-2024-07-28-qliksense-leadership-family-design|052_2024년 7월 4주차; 나는 QlikSense 대시보드와 리더십 문헌, 가족 돌봄을 함께 살폈다]]
 - [[posts/2024/051-2024-07-15-2024-07-21-language-automation-orgchart-dashboard-knowledge|051_2024년 7월 3주차; 나는 어학교육 자동화와 조직도 시각화, 지식 질문을 엮었다]]
 - [[posts/2024/050-2024-07-08-2024-07-14-language-education-file-selection-emotion|050_2024년 7월 2주차; 나는 어학교육 선택과 파일 처리, 감정 이해를 함께 탐색했다]]
 - [[posts/2024/049-2024-07-01-2024-07-07-python-sap-automation-excel-email-metaphor|049_2024년 7월 1주차; 나는 Python SAP 자동화와 Excel·메일·비유 탐색을 집중적으로 다뤘다]]
