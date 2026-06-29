@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/112-2025-09-15-2025-09-21-ai-productivity-qlik-jamovi-hrd-evaluation-mcp-health|112_2025년 9월 3주차; 나는 AI 업무생산성과 Qlik·Jamovi 분석, HRD 평가모형과 MCP 실행환경을 함께 다듬었다]]
 - [[posts/2025/111-2025-09-08-2025-09-14-steel-dx-vet-genai-rag-jdr-family-health|111_2025년 9월 2주차; 나는 철강 DX 조직개발과 직업교육 정책, 생성형 AI 학습체계와 RAG·JD-R 연구를 함께 다듬었다]]
 - [[posts/2025/110-2025-09-01-2025-09-07-hrd-evaluation-sap-automation-research-agent|110_2025년 9월 1주차; 나는 HRD 평가 발표와 SAP 자동화, 연구 에이전트와 로컬 LLM 환경을 함께 다듬었다]]
 - [[posts/2025/109-2025-08-25-2025-08-31-web-automation-sem-ml-books-benchmarking|109_2025년 8월 5주차; 나는 웹·업무 자동화와 SEM 문법, 머신러닝 학습서와 서비스 벤치마킹을 함께 다듬었다]]
