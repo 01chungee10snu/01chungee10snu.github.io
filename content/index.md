@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/110-2025-09-01-2025-09-07-hrd-evaluation-sap-automation-research-agent|110_2025년 9월 1주차; 나는 HRD 평가 발표와 SAP 자동화, 연구 에이전트와 로컬 LLM 환경을 함께 다듬었다]]
 - [[posts/2025/109-2025-08-25-2025-08-31-web-automation-sem-ml-books-benchmarking|109_2025년 8월 5주차; 나는 웹·업무 자동화와 SEM 문법, 머신러닝 학습서와 서비스 벤치마킹을 함께 다듬었다]]
 - [[posts/2025/108-2025-08-18-2025-08-24-onedrive-claude-code-emotion-analysis-qlik-hr-translation|108_2025년 8월 4주차; 나는 OneDrive와 Claude Code 네트워크, 교육 감정분석 전략과 Qlik·HR 영문표현을 함께 다듬었다]]
 - [[posts/2025/107-2025-08-11-2025-08-17-data-prompt-onedrive-education-clipboard-superclaude-onetncs|107_2025년 8월 3주차; 나는 데이터분석 프롬프트와 OneDrive 복구, 교육효과 측정 시각화와 SuperClaude·OnetNCS 연구를 함께 다듬었다]]
