@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/082-2025-02-17-2025-02-23-sap-automation-ai-security-leadership-heating-excel-travel|082_2025년 2월 3주차; 나는 SAP 자동화와 AI 보안, 리더십 보고문장과 난방·엑셀·여행 비교를 함께 다듬었다]]
 - [[posts/2025/081-2025-02-10-2025-02-16-food-loss-qlik-leadership-gpt-genai-evidence|081_2025년 2월 2주차; 나는 식수 예측분석과 Qlik 대시보드, 리더십 GPT와 생성형 AI 근거를 함께 다듬었다]]
 - [[posts/2025/080-2025-02-03-2025-02-09-man-power-education-data-ai-learning-tax|080_2025년 2월 1주차; 나는 MAN Power 분석과 교육 데이터, AI 학습소모임과 생활 세무를 함께 다듬었다]]
 - [[posts/2025/079-2025-01-27-2025-02-02-deepseek-korean-sentiment-safari-shortcuts-family-learning|079_2025년 1월 5주차; 나는 DeepSeek 충격과 한국어 감정분석, iOS 단축어와 가족 학습을 함께 탐색했다]]
