@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/099-2025-06-16-2025-06-22-predictive-automation-ppt-selfcare-github-family|099_2025년 6월 4주차; 나는 예측분석과 업무자동화, PPT 설계와 자기돌봄 질문을 함께 다듬었다]]
 - [[posts/2025/098-2025-06-09-2025-06-15-office-productivity-ai-job-research-onedrive-family-math|098_2025년 6월 3주차; 나는 사무생산성 혁신과 AI 직업대체 연구, OneDrive 백업과 가족 수학 설명을 함께 다듬었다]]
 - [[posts/2025/097-2025-06-02-2025-06-08-ai-workshop-ppt-data-analysis-family-travel|097_2025년 6월 2주차; 나는 생성형 AI 워크숍과 PPT 시각화, 데이터분석 전처리와 가족 여행 준비를 함께 다듬었다]]
 - [[posts/2025/096-2025-05-26-2025-06-01-carbon-ppt-kotestmkiwi-workshop-git-family-life|096_2025년 6월 1주차; 나는 탄소중립 교육과 PPT 시각화, KOTESTMkiwi 설계와 워크숍 운영을 함께 다듬었다]]
