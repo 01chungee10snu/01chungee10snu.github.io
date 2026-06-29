@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2025/104-2025-07-21-2025-07-27-claude-wsl-excel-bitcoin-ml-archive|104_2025년 7월 4주차; 나는 Claude 접속문제와 WSL 저장공간, Excel 집계와 비트코인·머신러닝 학습을 함께 다듬었다]]
 - [[posts/2025/103-2025-07-14-2025-07-20-sap-pptx-gpu-timeline-family-decision|103_2025년 7월 3주차; 나는 SAP 자동화와 PPTX 데이터추출, GPU 최적화와 타임라인·가족 판단을 함께 다듬었다]]
 - [[posts/2025/102-2025-07-07-2025-07-13-gpu-llm-rag-ppt-mcp-profile-pages|102_2025년 7월 2주차; 나는 GPU 학습오류와 LLM 문서정제, PPT 자동화와 MCP 서지관리·프로필 페이지를 함께 다듬었다]]
 - [[posts/2025/101-2025-06-30-2025-07-06-rapids-wsl-hr-data-audio-family-learning|101_2025년 7월 1주차; 나는 RAPIDS 실행환경과 HR 통합데이터 전략, 오디오 장비와 가족 자연학습을 함께 다듬었다]]
