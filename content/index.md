@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/070-2024-11-25-2024-12-01-sap-automation-cfa-outlook-ai-ethics-family-civil-complaint|070_2024년 11월 4주차; 나는 SAP 자동화와 CFA 분석, Outlook 백업과 AI 윤리, 가족 민원을 함께 다듬었다]]
 - [[posts/2024/069-2024-11-18-2024-11-24-genai-workflow-leadership-review-docker-self-reflection|069_2024년 11월 3주차; 나는 생성형 AI 업무활용과 리더십 문장, Docker 환경과 자기성찰을 함께 다듬었다]]
 - [[posts/2024/068-2024-11-11-2024-11-17-genai-adoption-stm-education-effectiveness-culture-calculus|068_2024년 11월 2주차; 나는 생성형 AI 도입 근거와 STM 오류, 교육효과성 분석과 조직문화 방법론을 함께 다듬었다]]
 - [[posts/2024/067-2024-11-04-2024-11-10-outlier-manpower-ai-curation-foresight|067_2024년 11월 1주차; 나는 이상치 제거와 맨파워 분류, 개인화 학습 큐레이션과 미래 포럼을 연결했다]]
