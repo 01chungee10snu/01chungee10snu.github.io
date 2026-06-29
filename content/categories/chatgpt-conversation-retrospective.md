@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/089-2025-04-07-2025-04-13-ai-readiness-embedding-leadership-sap-gpts-book-curator|089_2025년 4월 2주차; 나는 AI 활용 준비도와 임베딩 리더십 분석, SAP 자동화와 GPTs 지식설계를 함께 다듬었다]]
 - [[posts/2025/088-2025-03-31-2025-04-06-ghibli-image-bitcoin-deeplearning-steel-japanese|088_2025년 4월 1주차; 나는 지브리풍 이미지와 비트코인 딥러닝, 철강 개념과 일본어 표현을 함께 다듬었다]]
 - [[posts/2025/087-2025-03-24-2025-03-30-tls-python-env-gpts-phd-swarm-prdt|087_2025년 3월 4주차; 나는 TLS 오류와 Python 환경, GPTs 분석과 박사과정 문서, Swarm 자동화를 함께 다듬었다]]
 - [[posts/2025/086-2025-03-17-2025-03-23-local-llm-kote-sentiment-sap-phd-docs|086_2025년 3월 3주차; 나는 로컬 LLM과 KOTE 감정분석, SAP GUI 자동화와 박사과정 진학문서를 함께 다듬었다]]
