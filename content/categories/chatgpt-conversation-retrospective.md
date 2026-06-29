@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2024/057-2024-08-26-2024-09-01-topic-modeling-python-visual-assets-family-decision|057_2024년 8월 5주차; 나는 토픽모델링 오류와 Python 환경, 리더십 시각자료와 가족 판단을 함께 다뤘다]]
 - [[posts/2024/056-2024-08-19-2024-08-25-blended-learning-leadership-mbti-family-care|056_2024년 8월 4주차; 나는 블렌디드 러닝과 팀장 리더십, MBTI와 가족 돌봄을 함께 살폈다]]
 - [[posts/2024/055-2024-08-12-2024-08-18-text-embedding-hrd-feedback-family-safety|055_2024년 8월 3주차; 나는 텍스트 임베딩과 HRD 피드백, 가족 안전 질문을 함께 다뤘다]]
 - [[posts/2024/054-2024-08-05-2024-08-11-stm-sentiment-analysis-leadership-ai-family-learning|054_2024년 8월 2주차; 나는 STM 지표와 감정분석 자동화, 리더십 AI 활용을 다듬었다]]
