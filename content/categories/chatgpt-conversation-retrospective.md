@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/106-2025-08-04-2025-08-10-windows-sap-visualization-cuda-swimming-goggles|106_2025년 8월 2주차; 나는 Windows 오류해결과 SAP 자동화 시각화, CUDA 설치환경과 수경 보관법을 함께 다듬었다]]
 - [[posts/2025/105-2025-07-28-2025-08-03-steel-forecast-ai-change-kotestmkiwi-peer-review|105_2025년 8월 1주차; 나는 철강 출하예측과 AI 변화조직, KOTESTMkiwi 실행환경과 동료평가 문장을 함께 다듬었다]]
 - [[posts/2025/104-2025-07-21-2025-07-27-claude-wsl-excel-bitcoin-ml-archive|104_2025년 7월 4주차; 나는 Claude 접속문제와 WSL 저장공간, Excel 집계와 비트코인·머신러닝 학습을 함께 다듬었다]]
 - [[posts/2025/103-2025-07-14-2025-07-20-sap-pptx-gpu-timeline-family-decision|103_2025년 7월 3주차; 나는 SAP 자동화와 PPTX 데이터추출, GPU 최적화와 타임라인·가족 판단을 함께 다듬었다]]
