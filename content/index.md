@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2024/063-2024-10-07-2024-10-13-stm-shiny-genai-dikw-windows-family-travel|063_2024년 10월 2주차; 나는 STM·Shiny 통합과 생성형 AI 학습모임, DIKW와 생활 자동화를 함께 다뤘다]]
 - [[posts/2024/062-2024-09-30-2024-10-06-education-hours-runge-family-learning|062_2024년 10월 1주차; 나는 교육시간 분포와 Runge 현상, 가족 학습과 영상 요약을 함께 다뤘다]]
 - [[posts/2024/061-2024-09-23-2024-09-29-stm-preprocessing-action-plan-text-embedding-education|061_2024년 9월 4주차; 나는 STM 전처리와 Action Plan 분석, 텍스트 임베딩과 교육환경 질문을 함께 다뤘다]]
 - [[posts/2024/060-2024-09-16-2024-09-22-pytorch-sap-automation-scholarai-family-income|060_2024년 9월 3주차; 나는 PyTorch 환경과 SAP 자동화, ScholarAI와 가족 소득 질문을 함께 다뤘다]]
