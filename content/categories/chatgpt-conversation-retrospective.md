@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/123-2025-12-01-2025-12-07-organization-theory-n8n-topic-modeling-leadership-align|123_2025년 12월 1주차; 나는 조직개발 이론과 n8n 자동화, 토픽모델링과 리더십 Align 콘텐츠를 함께 다듬었다]]
 - [[posts/2025/122-2025-11-24-2025-11-30-self-reflection-windows-psm-ai-education-ocr|122_2025년 11월 5주차; 나는 자기성찰과 Windows 실행환경, PSM 분석과 AI 교육 문서화를 함께 다듬었다]]
 - [[posts/2025/121-2025-11-17-2025-11-23-agent-hrd-vet-windows-family-review|121_2025년 11월 4주차; 나는 AI Agent와 직무중심 HRD, 직업교육 정책과 생활 자동화를 함께 다듬었다]]
 - [[posts/2025/120-2025-11-10-2025-11-16-ai-hrd-theory-skillset-automation-family-research|120_2025년 11월 3주차; 나는 AI-HRD 이론과 스킬셋 자동화, 연구계획과 가족·생활 판단을 함께 다듬었다]]
