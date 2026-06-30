@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/134-2026-02-16-2026-02-22-wsl-codex-python-macmini-life-maintenance|134_2026년 2월 4주차; 나는 WSL Codex 실행환경과 Python 버전 문제, Mac mini 구매판단과 생활 관리 질문을 함께 다듬었다]]
 - [[posts/2026/133-2026-02-09-2026-02-15-matsuyama-orgculture-windows-steel-solana|133_2026년 2월 3주차; 나는 마쓰야마 여행 준비와 조직문화 액션리서치, Windows 운영환경과 철·투자 질문을 함께 다듬었다]]
 - [[posts/2026/132-2026-02-02-2026-02-08-dc-retirement-openclaw-steel-data-orgculture-onboarding-security|132_2026년 2월 2주차; 나는 DC 퇴직연금 설계와 OpenClaw 인증, 철강 시황 데이터와 조직문화 진단을 함께 다듬었다]]
 - [[posts/2026/131-2026-01-26-2026-02-01-pca-orgdev-browser-automation-family-travel-security|131_2026년 2월 1주차; 나는 PCA와 조직개발, 브라우저 자동화와 가족 여행·보안 판단을 함께 다듬었다]]
