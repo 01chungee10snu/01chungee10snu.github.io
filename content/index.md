@@ -16,6 +16,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2026/131-2026-01-26-2026-02-01-pca-orgdev-browser-automation-family-travel-security|131_2026년 2월 1주차; 나는 PCA와 조직개발, 브라우저 자동화와 가족 여행·보안 판단을 함께 다듬었다]]
 - [[posts/2026/130-2026-01-19-2026-01-25-research-automation-ai-literacy-powershell-steel-data|130_2026년 1월 4주차; 나는 연구문헌 자동화와 AI 리터러시, PowerShell 실행환경과 철강 경영메시지를 함께 다듬었다]]
 - [[posts/2026/129-2026-01-12-2026-01-18-automation-ontology-gemini-termux-research|129_2026년 1월 3주차; 나는 업무자동화 니즈와 온톨로지 학습, Gemini·Termux 실행환경과 연구자동화 구상을 함께 다듬었다]]
 - [[posts/2026/128-2026-01-05-2026-01-11-genai-skillup-work-standardization-housing-termux|128_2026년 1월 2주차; 나는 생성형 AI 스킬업 세미나와 업무표준화, 주거 의사결정과 Termux 실행환경을 함께 다듬었다]]
