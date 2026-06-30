@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/126-2025-12-22-2025-12-28-school-admission-excel-statistics-vba-css-life|126_2025년 12월 4주차; 나는 국제학교 입학전략과 Excel 조직통계, R·Python 분석비교와 VBA·CSS 자동화를 함께 다듬었다]]
 - [[posts/2025/125-2025-12-15-2025-12-21-tls-ksteel-hrd-promotion-leadership-ai-readiness-sem|125_2025년 12월 3주차; 나는 사내 TLS 환경과 K스틸법 HRD 의견, 책임승진자 리더십과 AI 준비도 연구를 함께 다듬었다]]
 - [[posts/2025/124-2025-12-08-2025-12-14-vet-organization-exam-align-population-education-ib|124_2025년 12월 2주차; 나는 산업인력·조직론 시험학습과 Align 리더십, 인구교육 보고서와 IB 지원서를 함께 다듬었다]]
 - [[posts/2025/123-2025-12-01-2025-12-07-organization-theory-n8n-topic-modeling-leadership-align|123_2025년 12월 1주차; 나는 조직개발 이론과 n8n 자동화, 토픽모델링과 리더십 Align 콘텐츠를 함께 다듬었다]]
