@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/144-2026-04-27-2026-05-03-ai-revenue-vet-iv-family-literature|144_2026년 5월 1주차; 나는 수익화 에이전트와 VET 논문, 도구변수 시뮬레이션과 가족 관찰을 함께 다듬었다]]
 - [[posts/2026/143-2026-04-20-2026-04-26-econometrics-windows-agent-cl-efficiency-self-reflection|143_2026년 4월 4주차; 나는 계량방법론 시험학습과 Windows 에이전트 실행환경, CL 업무효율화 교육과 자기이해를 함께 다듬었다]]
 - [[posts/2026/142-2026-04-13-2026-04-19-psm-vet-hlm-prompt-engineering-openclaw|142_2026년 4월 3주차; 나는 PSM 효율성 논의와 VET·HLM 시험답안, 프롬프트 엔지니어링 교육과 OpenClaw 실행환경을 함께 다듬었다]]
 - [[posts/2026/141-2026-04-06-2026-04-12-openclaw-psm-windows-network-automation|141_2026년 4월 2주차; 나는 OpenClaw 발표와 PSM 민감도 분석, Windows 네트워크 복구와 업무자동화를 함께 다듬었다]]
