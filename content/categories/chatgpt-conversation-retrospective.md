@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/137-2026-03-09-2026-03-15-psm-openclaw-mobile-family-tax|137_2026년 3월 3주차; 나는 PSM 방법론 발제와 OpenClaw 연구환경, 모바일 페이지 기획과 가족·세무 판단을 함께 다듬었다]]
 - [[posts/2026/136-2026-03-02-2026-03-08-topicmodeling-food-camping-wsl-path|136_2026년 3월 2주차; 나는 대규모 텍스트 클러스터링 연구와 식당 리뷰, 캠핑 예약 일정과 WSL 경로 오류를 함께 다듬었다]]
 - [[posts/2026/135-2026-02-23-2026-03-01-research-orgculture-cdp-html-family-reading|135_2026년 3월 1주차; 나는 연구 아이디어와 조직문화 진단, CDP·HTML 업무자동화와 가족 해석 질문을 함께 다듬었다]]
 - [[posts/2026/134-2026-02-16-2026-02-22-wsl-codex-python-macmini-life-maintenance|134_2026년 2월 4주차; 나는 WSL Codex 실행환경과 Python 버전 문제, Mac mini 구매판단과 생활 관리 질문을 함께 다듬었다]]
