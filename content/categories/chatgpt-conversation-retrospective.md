@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2025/119-2025-11-03-2025-11-09-sem-validity-family-dx-research-literature|119_2025년 11월 2주차; 나는 SEM 팬텀변인과 타당도, 가족 이해와 산업안전 DX·문헌탐색을 함께 다듬었다]]
 - [[posts/2025/118-2025-10-27-2025-11-02-ai-skillset-sem-hrd-roadmap-family-dialogue|118_2025년 11월 1주차; 나는 AI 스킬셋과 SEM 통계해석, HRD 로드맵과 가족 대화의 기준을 함께 다듬었다]]
 - [[posts/2025/117-2025-10-20-2025-10-26-skill-prompt-genai-adoption-literature-automation-sem-statistics|117_2025년 10월 4주차; 나는 스킬 정의 프롬프트와 생성형 AI 확산, 학술문헌 자동화와 SEM 기초통계를 함께 다듬었다]]
 - [[posts/2025/116-2025-10-13-2025-10-19-ai-agent-sem-zotero-orgdev-family-decision|116_2025년 10월 3주차; 나는 AI Agent 양성 프로그램과 SEM 기초학습, Zotero 연구노트와 조직개발·가족 판단을 함께 다듬었다]]
