@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/141-2026-04-06-2026-04-12-openclaw-psm-windows-network-automation|141_2026년 4월 2주차; 나는 OpenClaw 발표와 PSM 민감도 분석, Windows 네트워크 복구와 업무자동화를 함께 다듬었다]]
 - [[posts/2026/140-2026-03-30-2026-04-05-psm-sap-orgchange-vba-family|140_2026년 4월 1주차; 나는 PSM 민감도 분석과 SAP 설치오류, 조직변화 문헌과 VBA 자동화를 함께 다듬었다]]
 - [[posts/2026/139-2026-03-23-2026-03-29-psm-orgculture-windows-vba-family-health|139_2026년 3월 5주차; 나는 PSM 발제와 조직문화 문장, Windows·VBA 자동화와 가족 판단을 함께 다듬었다]]
 - [[posts/2026/138-2026-03-16-2026-03-22-wsl-safety-psm-vet-image-family-complaint|138_2026년 3월 4주차; 나는 WSL 실행환경과 안전업무 혁신, PSM·직업교육 문헌학습과 이미지·생활 민원을 함께 다듬었다]]
