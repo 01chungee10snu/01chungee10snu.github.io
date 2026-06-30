@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/128-2026-01-05-2026-01-11-genai-skillup-work-standardization-housing-termux|128_2026년 1월 2주차; 나는 생성형 AI 스킬업 세미나와 업무표준화, 주거 의사결정과 Termux 실행환경을 함께 다듬었다]]
 - [[posts/2026/127-2025-12-29-2026-01-04-sap-education-data-local-pdf-embedding-housing-life|127_2026년 1월 1주차; 나는 SAP 교육데이터 자동화와 로컬 PDF 분석, AI 사례 임베딩과 전세 이동 판단을 함께 다듬었다]]
 - [[posts/2025/126-2025-12-22-2025-12-28-school-admission-excel-statistics-vba-css-life|126_2025년 12월 4주차; 나는 국제학교 입학전략과 Excel 조직통계, R·Python 분석비교와 VBA·CSS 자동화를 함께 다듬었다]]
 - [[posts/2025/125-2025-12-15-2025-12-21-tls-ksteel-hrd-promotion-leadership-ai-readiness-sem|125_2025년 12월 3주차; 나는 사내 TLS 환경과 K스틸법 HRD 의견, 책임승진자 리더십과 AI 준비도 연구를 함께 다듬었다]]
