@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/147-2026-05-18-2026-05-24-coding-agent-hr-after-ai-openclaw-onedrive-logic|147_2026년 5월 4주차; 나는 무료 코딩에이전트와 HR After AI 발표, OpenClaw 장비구상과 논리학 번역을 함께 다듬었다]]
 - [[posts/2026/146-2026-05-11-2026-05-17-visual-prompt-cl-survey-codex-rd-od|146_2026년 5월 3주차; 나는 이미지 프롬프트와 CL 설문 시각화, Codex 네트워크와 RD·OD 역량체계를 함께 다듬었다]]
 - [[posts/2026/145-2026-05-04-2026-05-10-human-capital-reflective-judgment-ai-skill-openclaw-family-learning|145_2026년 5월 2주차; 나는 인적자본론과 성찰적 판단, AI 활용능력과 OpenClaw 환경을 함께 다듬었다]]
 - [[posts/2026/144-2026-04-27-2026-05-03-ai-revenue-vet-iv-family-literature|144_2026년 5월 1주차; 나는 수익화 에이전트와 VET 논문, 도구변수 시뮬레이션과 가족 관찰을 함께 다듬었다]]
