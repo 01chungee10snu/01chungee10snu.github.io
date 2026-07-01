@@ -16,7 +16,13 @@ tags:
   - ADHD
   - HSP
   - Zotero
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 산업-제조
 week: "2025-11-03~2025-11-09"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

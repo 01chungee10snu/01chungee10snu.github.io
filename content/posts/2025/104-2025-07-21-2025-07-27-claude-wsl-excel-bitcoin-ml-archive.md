@@ -16,7 +16,11 @@ tags:
   - 머신러닝
   - RandomForest
   - ChatGPT아카이브
+  - AI-LLM
+  - 업무자동화
+  - 인프라-도구
 week: "2025-07-21~2025-07-27"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

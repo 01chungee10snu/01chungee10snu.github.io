@@ -18,6 +18,11 @@ tags:
   - RegressionDiscontinuity
   - OD
   - 가족학습
+  - AI-LLM
+  - 가족-일상
+  - 데이터분석
+  - 업무자동화
+  - 인프라-도구
 week: "2026-05-11~2026-05-17"
 category: "ChatGPT 대화이력 회고"
 ---

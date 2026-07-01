@@ -19,6 +19,12 @@ tags:
   - PowerAutomate
   - 자기이해
   - 무기력
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 업무자동화
+  - 인프라-도구
 week: "2026-04-20~2026-04-26"
 category: "ChatGPT 대화이력 회고"
 ---

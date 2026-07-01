@@ -9,6 +9,8 @@ tags:
   - HTML메일
   - 업무자동화
   - 가족이해
+  - AI-LLM
+  - HRD-리더십
 week: "2026-02-23~2026-03-01"
 category: "ChatGPT 대화이력 회고"
 ---

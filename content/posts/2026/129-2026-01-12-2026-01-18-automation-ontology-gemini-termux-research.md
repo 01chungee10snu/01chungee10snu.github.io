@@ -8,6 +8,7 @@ tags:
   - GeminiCLI
   - Termux
   - 연구자동화
+  - AI-LLM
 week: "2026-01-12~2026-01-18"
 category: "ChatGPT 대화이력 회고"
 ---

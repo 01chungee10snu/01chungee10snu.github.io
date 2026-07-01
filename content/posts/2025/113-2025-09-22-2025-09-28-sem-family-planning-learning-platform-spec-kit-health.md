@@ -18,7 +18,12 @@ tags:
   - Playwright
   - Zotero
   - 건강관리
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
 week: "2025-09-22~2025-09-28"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

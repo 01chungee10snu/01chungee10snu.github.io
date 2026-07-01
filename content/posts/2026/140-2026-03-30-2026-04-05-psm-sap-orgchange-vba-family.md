@@ -16,6 +16,12 @@ tags:
   - PowerPoint
   - HLM
   - 가족대화
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 업무자동화
+  - 인프라-도구
 week: "2026-03-30~2026-04-05"
 category: "ChatGPT 대화이력 회고"
 ---

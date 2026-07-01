@@ -8,7 +8,13 @@ tags:
   - Python
   - SAP
   - 가족돌봄
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 업무자동화
 week: "2025-01-13~2025-01-19"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

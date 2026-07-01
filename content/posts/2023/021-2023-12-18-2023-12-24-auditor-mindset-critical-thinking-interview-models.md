@@ -15,6 +15,8 @@ tags:
   - PEACEModel
   - LookingGlassSelf
   - 근거기반HRD
+  - AI-LLM
+  - HRD-리더십
 ---
 
 # 021_2023년 12월 4주차; 나는 감사전문가 마인드셋 교육과정을 이론과 면담기법으로 설계했다

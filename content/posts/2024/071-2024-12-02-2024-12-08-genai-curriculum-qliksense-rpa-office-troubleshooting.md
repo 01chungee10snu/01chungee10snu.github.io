@@ -19,6 +19,9 @@ tags:
   - PowerShell
   - 리더십교육
   - AI에이전트
+  - AI-LLM
+  - HRD-리더십
+  - 데이터분석
 ---
 
 # 071_2024년 12월 1주차; 나는 생성형 AI 커리큘럼과 QlikSense 대시보드, RPA와 Office 오류를 함께 다듬었다

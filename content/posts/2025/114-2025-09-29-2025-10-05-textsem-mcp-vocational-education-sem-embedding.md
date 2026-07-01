@@ -17,7 +17,11 @@ tags:
   - JD-R
   - APA7
   - 업무방향
+  - AI-LLM
+  - HRD-리더십
+  - 데이터분석
 week: "2025-09-29~2025-10-05"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

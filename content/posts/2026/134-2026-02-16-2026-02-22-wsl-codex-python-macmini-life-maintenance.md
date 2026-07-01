@@ -9,6 +9,9 @@ tags:
   - Macmini
   - 생활관리
   - 실행환경
+  - AI-LLM
+  - 데이터분석
+  - 인프라-도구
 week: "2026-02-16~2026-02-22"
 category: "ChatGPT 대화이력 회고"
 ---

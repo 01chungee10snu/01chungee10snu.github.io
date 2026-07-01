@@ -18,7 +18,12 @@ tags:
   - SuperClaude
   - OnetNCSIntegration
   - 산업인력개발학
+  - AI-LLM
+  - HRD-리더십
+  - 업무자동화
+  - 인프라-도구
 week: "2025-08-11~2025-08-17"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

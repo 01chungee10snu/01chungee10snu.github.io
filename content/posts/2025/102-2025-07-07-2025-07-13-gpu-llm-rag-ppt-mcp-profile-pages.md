@@ -18,7 +18,11 @@ tags:
   - GitHubPages
   - 프로필웹페이지
   - 가족생활
+  - AI-LLM
+  - 가족-일상
+  - 업무자동화
 week: "2025-07-07~2025-07-13"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

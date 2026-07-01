@@ -20,6 +20,10 @@ tags:
   - WSL
   - HRD
   - 토픽모델링
+  - AI-LLM
+  - HRD-리더십
+  - 데이터분석
+  - 인프라-도구
 week: "2026-04-13~2026-04-19"
 category: "ChatGPT 대화이력 회고"
 ---

@@ -14,6 +14,11 @@ tags:
   - PowerPoint
   - 가족학습
   - 건강정보
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 업무자동화
 week: "2026-03-23~2026-03-29"
 category: "ChatGPT 대화이력 회고"
 ---

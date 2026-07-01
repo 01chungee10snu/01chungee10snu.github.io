@@ -9,6 +9,9 @@ tags:
   - Windows
   - 철강역사
   - 투자판단
+  - AI-LLM
+  - HRD-리더십
+  - 인프라-도구
 week: "2026-02-09~2026-02-15"
 category: "ChatGPT 대화이력 회고"
 ---

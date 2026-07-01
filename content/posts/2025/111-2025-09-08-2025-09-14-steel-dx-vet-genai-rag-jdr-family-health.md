@@ -17,7 +17,13 @@ tags:
   - Jamovi
   - Qlik
   - 건강관리
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 산업-제조
 week: "2025-09-08~2025-09-14"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

@@ -8,6 +8,8 @@ tags:
   - PowerShell
   - 철강
   - 데이터수집
+  - AI-LLM
+  - 업무자동화
 week: "2026-01-19~2026-01-25"
 category: "ChatGPT 대화이력 회고"
 ---

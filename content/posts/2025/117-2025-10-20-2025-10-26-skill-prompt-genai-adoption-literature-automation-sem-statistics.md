@@ -20,7 +20,12 @@ tags:
   - 다중공선성
   - VIF
   - PowerPoint
+  - AI-LLM
+  - HRD-리더십
+  - 데이터분석
+  - 업무자동화
 week: "2025-10-20~2025-10-26"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

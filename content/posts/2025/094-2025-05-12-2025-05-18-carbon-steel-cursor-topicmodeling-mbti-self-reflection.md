@@ -17,7 +17,14 @@ tags:
   - FIRO-B
   - 자기성찰
   - PowerPoint
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 데이터분석
+  - 산업-제조
+  - 업무자동화
 week: "2025-05-12~2025-05-18"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

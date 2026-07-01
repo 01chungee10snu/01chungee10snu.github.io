@@ -18,7 +18,12 @@ tags:
   - PowerShell
   - 자기돌봄
   - 가족돌봄
+  - AI-LLM
+  - HRD-리더십
+  - 가족-일상
+  - 인프라-도구
 week: "2025-06-16~2025-06-22"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

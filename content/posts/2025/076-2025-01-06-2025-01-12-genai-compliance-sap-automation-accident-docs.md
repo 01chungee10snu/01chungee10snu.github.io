@@ -8,7 +8,9 @@ tags:
   - SAP
   - 업무자동화
   - 문서자동화
+  - AI-LLM
 week: "2025-01-06~2025-01-12"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

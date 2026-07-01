@@ -17,6 +17,9 @@ tags:
   - BusinessIntelligence
   - 유아지능
   - IQ
+  - AI-LLM
+  - 데이터분석
+  - 산업-제조
 ---
 
 # 012_2023년 10월 3주차; 나는 블라인드 리뷰 전처리 오류와 QlikSense 교육 홍보를 붙잡았다

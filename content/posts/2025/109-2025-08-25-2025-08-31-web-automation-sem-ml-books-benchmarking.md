@@ -21,7 +21,10 @@ tags:
   - 이메일
   - CMD
   - YouTube요약
+  - AI-LLM
+  - 데이터분석
 week: "2025-08-25~2025-08-31"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

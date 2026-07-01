@@ -19,7 +19,10 @@ tags:
   - PYP
   - ClaudeCode
   - 인증서오류
+  - AI-LLM
+  - HRD-리더십
 week: "2025-12-08~2025-12-14"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결

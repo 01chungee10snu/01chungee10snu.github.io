@@ -21,6 +21,10 @@ tags:
   - PowerAutomate
   - ChatGPTAPI
   - HRD
+  - AI-LLM
+  - HRD-리더십
+  - 업무자동화
+  - 인프라-도구
 ---
 
 # 025_2024년 1월 3주차; 나는 기계학습 교육자료와 리더십 파이프라인, Teams 자동화를 함께 설계했다

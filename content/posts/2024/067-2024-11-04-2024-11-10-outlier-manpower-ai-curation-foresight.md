@@ -18,6 +18,8 @@ tags:
   - SkillTaxonomy
   - Foresight
   - FutureInsightForum
+  - AI-LLM
+  - HRD-리더십
 ---
 
 # 067_2024년 11월 1주차; 나는 이상치 제거와 맨파워 분류, 개인화 학습 큐레이션과 미래 포럼을 연결했다

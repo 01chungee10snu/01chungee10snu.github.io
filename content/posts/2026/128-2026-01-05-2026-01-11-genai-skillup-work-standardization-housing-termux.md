@@ -8,6 +8,9 @@ tags:
   - 업무표준화
   - 주거의사결정
   - Termux
+  - AI-LLM
+  - HRD-리더십
+  - 업무자동화
 week: "2026-01-05~2026-01-11"
 category: "ChatGPT 대화이력 회고"
 ---

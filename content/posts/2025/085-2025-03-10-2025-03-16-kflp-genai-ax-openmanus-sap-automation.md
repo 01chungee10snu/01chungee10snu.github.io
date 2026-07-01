@@ -11,7 +11,10 @@ tags:
   - SAP자동화
   - HRD
   - 업무자동화
+  - AI-LLM
+  - HRD-리더십
 week: "2025-03-10~2025-03-16"
+category: "ChatGPT 대화이력 회고"
 ---
 
 ## 연결
