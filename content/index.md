@@ -12,10 +12,12 @@ title: 충이의 생각조각 블로그
 
 ## 카테고리
 
+- [[categories/obsidian-daily-retrospective|Obsidian 일일 회고]]
 - [[categories/chatgpt-conversation-retrospective|ChatGPT 대화이력 회고]]
 
 ## 최신 글
 
+- [[posts/2025/daily-001-2025-05-21-self-care-sleep-hermes|2025-05-21; 나는 몸의 반응을 관찰하며 생활 리듬을 기록했다]]
 - [[posts/2026/147-2026-05-18-2026-05-24-coding-agent-hr-after-ai-openclaw-onedrive-logic|147_2026년 5월 4주차; 나는 무료 코딩에이전트와 HR After AI 발표, OpenClaw 장비구상과 논리학 번역을 함께 다듬었다]]
 - [[posts/2026/146-2026-05-11-2026-05-17-visual-prompt-cl-survey-codex-rd-od|146_2026년 5월 3주차; 나는 이미지 프롬프트와 CL 설문 시각화, Codex 네트워크와 RD·OD 역량체계를 함께 다듬었다]]
 - [[posts/2026/145-2026-05-04-2026-05-10-human-capital-reflective-judgment-ai-skill-openclaw-family-learning|145_2026년 5월 2주차; 나는 인적자본론과 성찰적 판단, AI 활용능력과 OpenClaw 환경을 함께 다듬었다]]
