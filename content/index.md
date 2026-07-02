@@ -17,6 +17,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2026/daily-003-2026-04-16-hermes|2026-04-16; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-002-2026-04-15-hermes-ai|2026-04-15; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2025/daily-001-2025-05-21-self-care-sleep-hermes|2025-05-21; 나는 몸의 반응을 관찰하며 생활 리듬을 기록했다]]
 - [[posts/2026/147-2026-05-18-2026-05-24-coding-agent-hr-after-ai-openclaw-onedrive-logic|147_2026년 5월 4주차; 나는 무료 코딩에이전트와 HR After AI 발표, OpenClaw 장비구상과 논리학 번역을 함께 다듬었다]]
