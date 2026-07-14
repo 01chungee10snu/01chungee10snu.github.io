@@ -13,6 +13,7 @@ tags:
 
 ## 글 목록
 
+- [[posts/2026/daily-065-2026-07-01-hermes-ai-learning-automation|2026-07-01; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-064-2026-06-30-hermes-ai-family-learning|2026-06-30; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-063-2026-06-29-hermes-ai-family-learning|2026-06-29; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-062-2026-06-28-hermes-ai-family-learning|2026-06-28; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
