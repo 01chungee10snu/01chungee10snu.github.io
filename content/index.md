@@ -17,6 +17,7 @@ title: 충이의 생각조각 블로그
 
 ## 최신 글
 
+- [[posts/2026/daily-070-2026-07-06-hermes-ai-automation-research|2026-07-06; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-069-2026-07-05-hermes-ai-family-automation|2026-07-05; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-068-2026-07-04-hermes-ai-automation-research|2026-07-04; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
 - [[posts/2026/daily-067-2026-07-03-hermes-ai-automation-data|2026-07-03; 나는 Hermes 기록을 정리하며 지식 흐름을 남겼다]]
